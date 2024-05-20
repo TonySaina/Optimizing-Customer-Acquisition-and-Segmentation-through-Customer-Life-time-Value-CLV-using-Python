@@ -1,0 +1,1 @@
+# Optimizing-Customer-Acquisition-and-Segmentation-through-Customer-Life-time-Value-CLV-using-Python
