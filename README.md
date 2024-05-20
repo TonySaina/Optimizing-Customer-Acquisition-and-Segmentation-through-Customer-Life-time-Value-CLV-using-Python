@@ -5,5 +5,4 @@ Recency, Frequency, and Monetary (RFM) Analysis, on the other hand, provides a g
 •	Frequency: How often a customer makes purchases.
 •	Monetary: The monetary value of a customer's transactions. 
 
-RFM analysis allows businesses to segment customers based on these metrics, enabling targeted marketing efforts and personalized strategies to enhance customer engagement and loyalty. 
-![image](https://github.com/TonySaina/Optimizing-Customer-Acquisition-and-Segmentation-through-Customer-Life-time-Value-CLV-using-Python/assets/133942090/84be4736-6e8a-4890-a4a3-6f62d25621df)
+RFM analysis allows businesses to segment customers based on these metrics, enabling targeted marketing efforts and personalized strategies to enhance customer engagement and loyalty.
